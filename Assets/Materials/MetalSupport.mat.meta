@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Materials/MetalSupport.mat.meta
+guid: 711d19e467d2f724fa543342eab70842
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+========
+guid: 0996702bece21b247b9bdccee385c3fc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+>>>>>>>> b347b83797232d408f707b0016f8e0202c9e96e4:Assets/Scenes/Test Level/LightingData.asset.meta
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

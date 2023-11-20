@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/3D Objects/Radio/Radio.mat.meta
+guid: c0d494aa794bcfc48848d0b84ce7cb22
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+========
+guid: 70d7d8663d875bd4e8a2281b2f78cf59
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+>>>>>>>> b347b83797232d408f707b0016f8e0202c9e96e4:Assets/Sprite Shape Profile.asset.meta
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
